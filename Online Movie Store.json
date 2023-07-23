@@ -1,0 +1,62 @@
+[
+  {
+    "MovieName": "Harry Potter",
+    "MovieGenre": "Adventure",
+    "Actors": [
+      "Daniel Radcliffe",
+      "Emma Charlotte"
+    ],
+    "ProductionCompany": "Warner Bros.",
+    "ReleaseDate": "16th Nov,2001",
+    "Quantity": "10",
+    "Cost": "20$"
+  },
+  {
+    "MovieName": "Iron Man",
+    "MovieGenre": "Action",
+    "Actors": [
+      "Robert Downey Jr",
+      "Gwyneth paltrow"
+    ],
+    "ProductionCompany": "Marvel",
+    "ReleaseDate": "6th Nov,2001",
+    "Quantity": "10",
+    "Cost": "20$"
+  },
+  {
+    "MovieName": "Batman",
+    "MovieGenre": "Adventure",
+    "Actors": [
+      "Ben Affleck",
+      "Robert patinson"
+    ],
+    "ProductionCompany": "D.C",
+    "ReleaseDate": "1th Dec,2006",
+    "Quantity": "19",
+    "Cost": "23$"
+  },
+  {
+    "MovieName": "Black Panther",
+    "MovieGenre": "Adventure",
+    "Actors": [
+      "Chadwick boseman",
+      "wright"
+    ],
+    "ProductionCompany": "Marvel",
+    "ReleaseDate": "19th APR,2015",
+    "Quantity": "15",
+    "Cost": "16$"
+  },
+  {
+    "MovieName": "Knocked Up",
+    "MovieGenre": "Comedy",
+    "Actors": [
+      "Seth Rogen",
+      "Katherine Heigl"
+    ],
+    "ProductionCompany": "APATOW",
+    "ReleaseDate": "6th Nov,2007",
+    "Quantity": "27",
+    "Cost": "8$"
+  }
+]

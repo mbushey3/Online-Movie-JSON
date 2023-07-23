@@ -1,0 +1,120 @@
+<Movies>
+<Movie>
+
+<MovieName>Harry Potter</MovieName>
+
+<MovieGenre>Adventure</MovieGenre>
+
+<Actors>
+
+<Name> Daniel Radcliffe </Name>
+
+<Name> Emma Charlotte </Name>
+
+</Actors>
+
+<ProductionCompany>Warner Bros.</ProductionCompany>
+
+<ReleaseDate>16th Nov,2001</ReleaseDate>
+
+<Quantity>10</Quantity>
+
+<Cost>20$</Cost>
+
+</Movie>
+
+<Movie> 
+
+<MovieName>Iron Man</MovieName>
+
+<MovieGenre>Action</MovieGenre>
+
+<Actors>
+
+<Name> Robert Downey Jr </Name>
+
+<Name> Gwyneth paltrow </Name>
+
+</Actors>
+
+<ProductionCompany>Marvel</ProductionCompany>
+
+<ReleaseDate>6th Nov,2001</ReleaseDate>
+
+<Quantity>10</Quantity>
+
+<Cost>20$</Cost>
+
+</Movie>
+
+<Movie> 
+
+<MovieName>Batman</MovieName>
+
+<MovieGenre>Adventure</MovieGenre>
+
+<Actors>
+
+<Name> Ben Affleck </Name>
+
+<Name> Robert patinson </Name>
+
+</Actors>
+
+<ProductionCompany>D.C</ProductionCompany>
+
+<ReleaseDate>1th Dec,2006</ReleaseDate>
+
+<Quantity>19</Quantity>
+
+<Cost>23$</Cost>
+
+</Movie>
+
+<Movie> 
+
+<MovieName>Black Panther</MovieName>
+
+<MovieGenre>Adventure</MovieGenre>
+
+<Actors>
+
+<Name> Chadwick boseman </Name>
+
+<Name> wright </Name>
+
+</Actors>
+
+<ProductionCompany>Marvel</ProductionCompany>
+
+<ReleaseDate>19th APR,2015</ReleaseDate>
+
+<Quantity>15</Quantity>
+
+<Cost>16$</Cost>
+
+</Movie>
+
+<Movie> 
+
+<MovieName>Knocked Up </MovieName>
+
+<MovieGenre>Comedy</MovieGenre>
+
+<Actors>
+
+<Name> Seth Rogen </Name>
+
+<Name> Katherine Heigl </Name>
+
+</Actors>
+
+<ProductionCompany>APATOW</ProductionCompany>
+
+<ReleaseDate>6th Nov,2007</ReleaseDate>
+
+<Quantity>27</Quantity>
+
+<Cost>8$</Cost>
+
+</Movie>
